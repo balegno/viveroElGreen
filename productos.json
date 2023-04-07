@@ -1,0 +1,442 @@
+[
+    {
+        "id":1,
+        "nomCient": "Abeliaasdas",
+        "nomCom": "Abelia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":2,
+        "nomCient": "asdadw",
+        "nomCom": "Acer Palmatun",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":3,
+        "nomCient": "asdada",
+        "nomCom": "Aralia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":4,
+        "nomCient": "asdaswwq",
+        "nomCom": "Arandano",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":5,
+        "nomCient": "asda",
+        "nomCom": "Ampelopsis",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":6,
+        "nomCient": "qweqe",
+        "nomCom": "Areca",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":7,
+        "nomCient": "",
+        "nomCom": "Alamanda",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":8,
+        "nomCient": "basdas",
+        "nomCom": "Berberis",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":9,
+        "nomCient": "basdas<<",
+        "nomCom": "Berbena",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":10,
+        "nomCient": "",
+        "nomCom": "Binca",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":11,
+        "nomCient": "",
+        "nomCom": "Brico",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },{
+        "id":12,
+        "nomCient": "",
+        "nomCom": "Camelia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":13,
+        "nomCient": "",
+        "nomCom": "Cebolla",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":14,
+        "nomCient": "",
+        "nomCom": "Ceboullette",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":15,
+        "nomCient": "",
+        "nomCom": "Camalote",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":16,
+        "nomCient": "",
+        "nomCom": "Calatea",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":17,
+        "nomCient": "",
+        "nomCom": "Catalpa",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":18,
+        "nomCient": "",
+        "nomCom": "Coleos",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":19,
+        "nomCient": "",
+        "nomCom": "Cortadera",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":20,
+        "nomCient": "",
+        "nomCom": "Ceratotigma",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":21,
+        "nomCient": "",
+        "nomCom": "Citronela",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":22,
+        "nomCient": "",
+        "nomCom": "Cilantro",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":23,
+        "nomCient": "",
+        "nomCom": "Damasco",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":24,
+        "nomCient": "",
+        "nomCom": "Difembaquia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":25,
+        "nomCient": "",
+        "nomCom": "Dimorfoteca",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":26,
+        "nomCient": "",
+        "nomCom": "Duranta",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":27,
+        "nomCient": "",
+        "nomCom": "Dodonea",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":28,
+        "nomCient": "",
+        "nomCom": "Eleagnus",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":29,
+        "nomCient": "",
+        "nomCom": "Equisetum",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":30,
+        "nomCient": "",
+        "nomCom": "Euriops",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":31,
+        "nomCient": "",
+        "nomCom": "Festuca",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":32,
+        "nomCient": "",
+        "nomCom": "Formio",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":33,
+        "nomCient": "",
+        "nomCom": "Fuccia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":34,
+        "nomCient": "",
+        "nomCom": "Gallardia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":35,
+        "nomCient": "",
+        "nomCom": "Gaura",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":36,
+        "nomCient": "",
+        "nomCom": "Gomero",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":37,
+        "nomCient": "",
+        "nomCom": "Hemerocalis",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":38,
+        "nomCient": "",
+        "nomCom": "Hortencia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":39,
+        "nomCient": "",
+        "nomCom": "Hiperico",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":40,
+        "nomCient": "",
+        "nomCom": "Kinoto",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":41,
+        "nomCient": "",
+        "nomCom": "Kiri",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":42,
+        "nomCient": "",
+        "nomCom": "Lambertiana",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":43,
+        "nomCient": "",
+        "nomCom": "Laurentino",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":44,
+        "nomCient": "",
+        "nomCom": "Laurel",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":45,
+        "nomCient": "",
+        "nomCom": "Lavanda",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":46,
+        "nomCient": "",
+        "nomCom": "Liriope",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":47,
+        "nomCient": "",
+        "nomCom": "Lirio",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":48,
+        "nomCient": "",
+        "nomCom": "Marimonia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":49,
+        "nomCient": "",
+        "nomCom": "Margarita",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":50,
+        "nomCient": "",
+        "nomCom": "Marginata",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":51,
+        "nomCient": "",
+        "nomCom": "Magnolia",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":52,
+        "nomCient": "",
+        "nomCom": "Miscantus",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":53,
+        "nomCient": "",
+        "nomCom": "Mimosa",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":54,
+        "nomCient": "",
+        "nomCom": "Monstera",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    },
+    {
+        "id":55,
+        "nomCient": "",
+        "nomCom": "Opiompogum",
+        "preCh": 1300,
+        "preM": 2000,
+        "preGr": 2500
+    }
+
+]

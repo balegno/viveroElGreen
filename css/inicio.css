@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    font-family: 'Mukta';
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-color: #608b64dc;
+} 
+img{
+    max-width: 100%;
+    border-radius: 1.9rem;
+}
+
+h1{
+    font-size: 5rem;
+    margin: .2rem 1rem;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+
+h2{
+    font-size: 3.2rem;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+    
+}
+
+h3{
+    font-size: 2.1rem;
+    text-align: center;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.nav-link{
+    font-size: 1.8rem;
+    font-family: 'Hammersmith One', sans-serif;
+    text-align: center;
+}
+
+
+p{
+    margin: .5rem;
+    text-align: center;
+    width: auto;
+    font-size: 1.4rem;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+
+.navbar-collapse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+.prueba{
+    margin: -.5rem auto .5rem;
+    display: flex;
+    justify-content: right;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.form-control, .btn , .dropdown-item{
+    font-size: 1.5rem;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+.dropdown-menu{
+    text-align: center;
+    background-color: #5f6f52;
+}
+
+.imgGreen{
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} 
+
+.padreProductos{
+    margin: 1.5rem 2.8rem;
+    background-color: #5f6f52;
+    border: solid 2.2px #fff;
+    border-radius: 2rem;
+    width: 25rem;
+    padding: .8rem;
+}
+
+#costoDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+
+#costo{
+    align-content: center;
+    background-color: #608b64f1;
+    border: solid 3px black;
+    border-radius: 2rem;
+    width: 10rem;
+}
+
+#divCantidad{
+    display: flex;
+    justify-content: center;
+}
+
+#bttnCard{
+    margin: .4rem 1rem;
+    border-radius: 2rem;
+    width: 3rem;
+    height: 3rem;
+    font-size: 2rem;
+    background-color: #608b64f1;
+    font-family: 'Hammersmith One', sans-serif;
+}
+
+#CantElegida{
+    font-size: 2rem;
+    color: black;
+
+}
+
+.carousel-item{
+    border-radius: 2rem;
+    border: solid 2px white;
+}
+
+.navbar-toggler{
+    margin: -2.8rem 1rem 1rem;
+}
