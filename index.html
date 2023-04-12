@@ -24,43 +24,47 @@
 </head>
 <body>
 
-  <nav class="navbar navbar-expand-lg bg-body-tertiary">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="index.html"><img src="img/2 sin título_20210112113651 (1).png" alt="LogoViveroElGreen" class="imgGreen"></a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
+  <div class="naveg bg-secondary sticky-top">
+    <nav class="navbar navbar-expand-lg">
+      <button class="navbar-toggler bg-light p-3 categorias" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01 " aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <img src="img/layout-wtf.svg" alt="categorias">
       </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav autome mb-2 mb-lg-0">
-          <li class="nav-item">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                Plantas
-              </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Interior</a></li>
-                  <li><a class="dropdown-item" href="#">Exterior</a></li>
-                </ul>
-            </li>
-            <a class="nav-link" aria-current="page" href="#">Tierra</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" aria-current="page" href="#">Productos</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Macetas</a>
-          </li>
-        </ul>
+      <img id="imgLogo" src="img/2 sin título_20210112113651 (1).png" alt="">
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+      
+      <ul class="navbar-nav bg-secondary">
+        <li class="nav-item">
+          <a class="navbar-brand" href="#">Plantas</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="navbar-brand" href="#">Tierra</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="navbar-brand" href="#">Productos</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="navbar-brand" href="#">Macetas</a>
+        </li>
+        
+      </nav>
+
+      <div id="bloQ">
+      <div id="submii">
+        <input class="busqueda" type="search" placeholder="Buscar">
+        <button class="imgS" type="submit"><img src="img/search.svg" alt=""></button>
       </div>
+    
+      
+      <button class="imgPB"><img src="img/person-fill.svg" alt=""></button>
+
+      <button class="imgPB"><img src="img/handbag.svg" alt=""></button>
     </div>
-  </nav>
-  <div class="prueba">
-  <form class="prueba" role="search">
-    <input class="form-control me-1" type="search" placeholder="Buscar" aria-label="Search">
-    <button class="btn btn-outline-success" type="submit">Buscar</button>
-  </form>
 </div>
 
+<!-- Carousel Banner -->
 
   <div id="carouselExampleIndicators" class="carousel slide">
     <div class="carousel-indicators">
@@ -89,6 +93,11 @@
       <span class="visually-hidden">Next</span>
     </button>
   </div>
+
+  <!-- FIN Carousel Banner -->
+
+
+  <!-- CARD -->
 
   <div class="padreProductos">
     <div card="tarjetasProductos">
@@ -136,12 +145,14 @@
 
 
       <div id="divCantidad">
-        <button id="bttnCard">+</button>
+        <button> <img id="bttnCard" src="img/restarCirculo.svg" alt=""></button>
           <p id="CantElegida">2</p>
-        <button id="bttnCard">-</button>
+        <button><img id="bttnCard" src="img/sumarCirculo.svg" alt=""></button>
       </div>
     </div>
 </div>
+
+<!-- FIN CARD -->
 
 
   <!--Script de Bootstrap-->
